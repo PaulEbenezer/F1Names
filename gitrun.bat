@@ -12,6 +12,6 @@ git commit -m "first commit"
 
 git remote add origin https://github.com/PaulEbenezer/F1Names
 
-git push-u origin master
+git push -u origin master
 
 pause
