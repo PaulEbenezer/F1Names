@@ -10,7 +10,7 @@ git status
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/PaulEbenezer/F1Names
+git remote add origin https://github.com/PaulEbenezer/PaulEbenezer
 
 git push -u origin master
 
